@@ -1,0 +1,333 @@
+html {
+    height: 100%;
+}
+
+body{
+    background: #6f2929;
+    margin: 0;
+    height: 100%;
+      
+}
+
+.footer {
+   font-family: 'Strait', sans-serif;
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgba(57,62,65,0.6);
+   color: white;
+   text-align: center;
+   padding: 25px;
+   font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  width: 100%;
+  margin: 2px;
+  padding: 36px;
+  align-content: center;
+  font-family: 'Six Caps', sans-serif;
+  letter-spacing: 8px;
+  font-size: 30px;
+  position:fixed;
+  background-color: rgba(111, 41, 41,0.6);
+    
+}
+
+li {
+  display: inline;
+  padding: 70px;
+  align-content: center;
+    
+    
+}
+
+.video{
+    padding-bottom: 90px;
+    padding-left: 10px;
+    align-content: left;
+    width: 550px;
+    height: 00px;
+}
+
+.video1{
+    position: absolute;
+    align-content: left;
+    width: 550px;
+    padding: 20px;
+}
+
+.logo{
+    object-position: center;
+    margin-top: -50px;
+    height: auto;
+}
+
+#header{
+    background-color: #343330;
+    border-top: solid 10px #070707;
+    height: 150px;
+    top: 0;
+    box-shadow: 0px 0px 50px black;
+    width: 100%;
+    min-width: 960px;
+    position:static;
+    object-position: center;
+
+    
+}
+
+.parallax-container {
+  height: 900px;
+  width: 100%;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+#title{
+    font-family:'Six Caps', sans-serif;
+    letter-spacing: 15px;
+    font-size: 85px;
+    text-align: center;
+    color: white;
+    padding-top: 300px;
+    
+}
+
+#title1{
+    font-family:'Six Caps', sans-serif;
+    letter-spacing: 7px;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    padding: 6px;  
+}
+
+#title2{
+    font-family:'Six Caps', sans-serif;
+    letter-spacing: 7px;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    padding-left: 5px; 
+}
+
+#title3{
+    font-family:'Six Caps', sans-serif;
+    letter-spacing: 7px;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    padding-left: 5px; 
+    padding-bottom: 40px;
+}
+
+#title4{
+    font-family:'Six Caps', sans-serif;
+    letter-spacing: 2px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+#above{
+    font-family:'Six Caps', sans-serif;
+    letter-spacing: 15px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding: 6px;
+}
+
+#chapter{
+    font-family:'Six Caps', sans-serif;
+    letter-spacing: 7px;
+    font-size:60px;
+    text-align: center;
+    color: black;
+    padding-left: 5px; 
+    padding-bottom: 5px;
+    text-decoration: none;
+    
+}
+
+p{
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
+  font-family:'Strait', sans-serif;
+  font-size: 30px;
+  color: whitesmoke;
+  
+}
+
+p2{
+    padding: 30px;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+    font-size: 20px;
+    color: white;
+    
+}
+
+.mainpara{
+    text-align: right;
+    padding-left: 600px;
+    padding-right: 30px;
+    font-family: 'Strait', sans-serif;
+    font-size: 20px;
+    color: white;   
+}
+
+.bodytext{
+    padding-left: 700px;
+    padding-bottom: 2px;
+    padding-top:px;
+    text-align: right;
+    font-family: 'Strait', sans-serif;
+    font-size: 18px;
+    color: white;      
+}
+
+.bodytext1{
+    padding: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: right;
+    font-family: 'Strait', sans-serif;
+    font-size: 18px;
+    color: white;      
+}
+
+.bodytext2{
+    padding: 20px;
+    padding-left: 700px;
+    padding-right: 30px;
+    text-align: right;
+    font-family: 'Strait', sans-serif;
+    font-size: 18px;
+    color: white;      
+}
+
+.bodytext3{
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 700px;
+    text-align: right;
+    font-family: 'Strait', sans-serif;
+    font-size: 18px;
+    color: white;      
+}
+
+.bodytext4{
+    padding: 20px;
+    padding-right: 700px;
+    text-align: left;
+    font-family: 'Strait', sans-serif;
+    font-size: 18px;
+    color: white;  
+}
+
+.bodytext5{
+    padding-left: 830px;
+    padding-right: 20px;
+    padding-bottom: 29px;
+    text-align: right;
+    font-family: 'Strait', sans-serif;
+    font-size: 18px;
+    color: white;  
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.minibodytext{
+    padding: 2px;
+    padding-left: 70px;
+    padding-right: 30px;
+    text-align: right;
+    font-family: 'Strait', sans-serif;
+    font-size: 13px;
+    color: white;      
+}
+
+.quote{
+    padding: 20px;
+    padding-left: 90px;
+    padding-right: 700px;
+    text-align: left;
+    font-family:  'Pathway Gothic One', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 40px;
+    color: #c06e52;    
+}
+
+.quote1{
+    padding-right: 20px;
+    padding-left: 200px;
+    text-align: right;
+    font-family:  'Pathway Gothic One', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 25px;
+    color: #c06e52;    
+}
+
+.quote2{
+    padding: 20px;
+    font-family:  'Pathway Gothic One', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 35px;
+    color: #c06e52;    
+}
+
+hr {
+    width: 1000px;
+    color: white;
+    
+}
+
+
+
+/*graphs*/
+
+.tableauPlaceholder{
+    height: 363px;
+}
+
+
+/* images */
+
+.gulen{
+    padding-left: 20px;
+
+
+    
+}
+
+.deniz{
+    padding: 20px;
+    opacity: 0.8;
+}
+
+.image2{
+    padding: 20px;
+    padding-left: 80px;
+}
+
+.image3{
+    padding: 10px;
+    padding-left: 8px;
+    padding-bottom: px;
+}
