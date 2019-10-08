@@ -29,8 +29,8 @@ ul {
   padding: 36px;
   align-content: center;
   font-family: 'Ubuntu', sans-serif;
-  letter-spacing: 3px;
-  font-size: 20px;
+  letter-spacing: -2px;
+  font-size: 16px;
   position:fixed;
   background-color: rgba(111, 41, 41,0.6);
     
